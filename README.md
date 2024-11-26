@@ -30,3 +30,22 @@ This Visual Studio Code extension adds a floating button next to JavaScript vari
 const myVariable = 42; // This is my variable
 // After clicking the [Log] button, the following line will be added:
 console.log('myVariable: This is my variable', myVariable);
+```
+
+## Requirements
+ - Visual Studio Code
+ - Node.js
+
+## Extension Settings
+This extension does not require any additional settings.
+
+## Known Issues
+ - The [Log] button may not appear if the variable declaration is not detected correctly.
+## Release Notes
+1.0.0
+ - Initial release of the Log Variable Extension.
+## Contributing
+If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
