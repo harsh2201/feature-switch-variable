@@ -48,4 +48,4 @@ This extension does not require any additional settings.
 If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under a custom license. See the [LICENSE](LICENSE) file for details.
